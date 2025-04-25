@@ -1,0 +1,51 @@
+{
+    "@@locale": "en",
+    "risingWoman": "Rising Woman",
+    "@risingWoman": {
+        "description": "Logo description"
+    },
+    "embraceYourShadowsTitle": "Embrace your shadows",
+    "@embraceYourShadowsTitle": {
+        "description": "App slogan"
+    },
+    "embraceYourShadowsSubTitle": "Embody light",
+    "@embraceYourShadowsSubTitle": {
+        "description": "App slogan 2"
+    },
+    "scrollableBoxText1": "Discover yourself Through the Stars",
+    "@scrollableBoxText1": {
+        "description": "Scrollable box first title"
+    },
+    "scrollableBoxTextSubtitle1": "Explore self-awareness through astrology. Navigate life with clarity.",
+    "@scrollableBoxTextSubtitle1": {
+        "description": "Scrollable box first subtitle"
+    },
+    "scrollableBoxText2": "Discover yourself Through the Stars",
+    "@scrollableBoxText2": {
+        "description": "Scrollable box second title"
+    },
+    "scrollableBoxTextSubtitle2": "Explore self-awareness through astrology. Navigate life with clarity.",
+    "@scrollableBoxTextSubtitle2": {
+        "description": "Scrollable box second subtitle"
+    },
+    "scrollableBoxText3": "Discover yourself Through the Stars",
+    "@scrollableBoxText3": {
+        "description": "Scrollable box third title"
+    },
+    "scrollableBoxTextSubtitle3": "Explore self-awareness through astrology. Navigate life with clarity.",
+    "@scrollableBoxTextSubtitle3": {
+        "description": "Scrollable box third subtitle"
+    },
+    "getStarted": "Get started",
+    "@getStarted": {
+        "description": "Get started CTA title"
+    },
+    "alreadyHaveAnAccount": "Already have an account?",
+    "@alreadyHaveAnAccount": {
+        "description": "Welcome page sign in prompt"
+    },
+    "signIn": "Sign in",
+    "@signIn": {
+        "description": "Sign in"
+    }
+}

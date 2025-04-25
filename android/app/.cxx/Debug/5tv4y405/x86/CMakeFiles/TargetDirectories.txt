@@ -1,0 +1,2 @@
+/Users/albertomiola/Desktop/demoapp/android/app/.cxx/Debug/5tv4y405/x86/CMakeFiles/edit_cache.dir
+/Users/albertomiola/Desktop/demoapp/android/app/.cxx/Debug/5tv4y405/x86/CMakeFiles/rebuild_cache.dir
